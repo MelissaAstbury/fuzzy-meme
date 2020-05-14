@@ -1,0 +1,11 @@
+{
+  "name": "fuzzy-meme",
+  "version": "1.0.0",
+  "description": "implementing authentication",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Melissa Astbury",
+  "license": "ISC"
+}
